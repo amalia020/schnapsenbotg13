@@ -7,7 +7,7 @@ uniformly at random.
 from api import State
 import random
 
-
+# Test 123
 class Bot:
 
     def __init__(self):
